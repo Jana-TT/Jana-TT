@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Jana-TT/Jana-TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" /
+## 🌟 Featured Project: Tanks 
+  * Web App: [Tanks Web App](https://tank-ui.vercel.app/)
+  * API Documentation: [Tanks Swagger Docs](https://tanks-api.wolfeydev.com/docs)
 
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" title="JavaScipt" />
+## Fullstack Webapps
+- [Fuel Quoter](https://fuelquote.vercel.app/registrationPage)
 
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" title="Visual Studio Code" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" />
-</p>
+## Case Studies
+- [Cyclistic Case Study](https://sites.google.com/view/janatahan/cyclistic-case-study?authuser=0)
+  
+## Game Jams
+- [Torpedo-Rush](https://wolfeycs.itch.io/torpedo-rush)
+- [Bunny-Bouquet](https://wolfeycs.itch.io/bunny-bouquet)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-TT&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jana-TT&theme=tokyonight)](https://git.io/streak-stats)
+## Steam Games
+- [HullBreakers](https://store.steampowered.com/app/1808210/Hullbreakers/)
+- [Xenon-Runner](https://store.steampowered.com/app/2327130/XenonRunner/)
