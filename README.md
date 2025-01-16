@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ## 🌟 Featured Project: Tanks 
 * Web App: [Tanks Web App](https://tank-ui.vercel.app/)
-  * [Backend Source Code](https://github.com/Jana-TT/tank_project_2)
-  * [Frontend Source Code](https://github.com/Jana-TT/tank_ui)
+  * Backend: [Source Code](https://github.com/Jana-TT/tank_project_2)
+  * Frontend: [Source Code](https://github.com/Jana-TT/tank_ui)
   * API Documentation: [Tanks Swagger Docs](https://tanks-api.wolfeydev.com/docs)
     
-*iOS App: [Source Code](https://github.com/Jana-TT/tanks_mobile) 
+* iOS App: [Source Code](https://github.com/Jana-TT/tanks_mobile) 
 
 ## Fullstack Webapps
 - [Fuel Quoter](https://fuelquote.vercel.app/registrationPage)
